@@ -7,7 +7,7 @@
       :max-scale="7"
       :min-scale="0.2"
       :preview-src-list="srcList"
-      :initial-index="4"
+      :initial-index="1"
       fit="cover"
     />
   </div>
